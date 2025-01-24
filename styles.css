@@ -247,10 +247,10 @@ section .text {
 }
 
 .project-info h3 {
-    font-size: 2.4rem; /* Reduced size for better balance */
+    font-size: 2.4rem; 
     margin-bottom: 15px;
     color: #fff;
-    font-weight: 600; /* Keep the same font-weight */
+    font-weight: 600; 
 }
 
 .project-info p {
@@ -287,7 +287,7 @@ section .text {
     }
 
     .project-info h3 {
-        font-size: 2rem; /* Adjusted for smaller screens */
+        font-size: 2rem; 
     }
 
     .project-info p {
@@ -328,19 +328,19 @@ section .text {
 }
 
 #contact form label {
-    display: inline-block; /* Change to inline-block to keep it close to the input */
+    display: inline-block; 
     font-size: 16px;
-    margin-bottom: 5px; /* Reduced margin to bring label closer */
+    margin-bottom: 5px; 
     color: #bbb;
     text-align: left;
-    width: 100%; /* Ensure it takes full width */
+    width: 100%; 
 }
 
 #contact form input,
 #contact form textarea {
-    width: 50%; /* Set the width to 50% */
+    width: 50%; 
     padding: 12px;
-    margin-bottom: 15px; /* Reduced margin to bring input closer to other elements */
+    margin-bottom: 15px; 
     border-radius: 5px;
     border: 2px solid var(--link-color);
     background-color: #333;
